@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\WindowsFormsApplication1.ShowHelloWorld.resources
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Administrator\Documents\Github\HelloWorld\HelloWorld\HelloWorld\obj\Debug\WindowsFormsApplication1.frmHelloWorld.resources
